@@ -4,12 +4,11 @@
 I am Vignesh from India. I'm an IT undergraduate in SASTRA DEEMED UNIVERSITY.
 
 Skills:
-C / C++ / SQL / PYTHON / FLASK / R
+## C / C++ / SQL / PYTHON / FLASK / R
 
--  I’m currently learning Data Science and Backend Development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/V-VigneshR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vignesh-r-2493062a3//)  
+## I’m currently learning Data Science and Backend Development 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=V-VigneshR&show_icons=true)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/V-VigneshR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vignesh-r-2493062a3//)  
 
