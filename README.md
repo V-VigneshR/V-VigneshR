@@ -6,7 +6,7 @@ I am Vignesh from India. I'm an IT undergraduate in SASTRA DEEMED UNIVERSITY.
 Skills:
 ### C / C++ / SQL / PYTHON / FLASK / R
 
-### I’m currently learning Data Science and Backend Development 
+### I’m currently learning Data Analysis and Cloud services  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=V-VigneshR&show_icons=true)  
 
