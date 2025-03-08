@@ -10,5 +10,5 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=V-VigneshR&show_icons=true)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/V-VigneshR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/vignesh-ravichandran](https://www.linkedin.com/in/vignesh-ravichandran)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/V-VigneshR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/vignesh-ravichandran-2493062a3/](https://www.linkedin.com/in/vignesh-ravichandran-2493062a3/)
 
