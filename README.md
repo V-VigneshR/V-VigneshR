@@ -6,7 +6,7 @@ Hey I'm Vignesh. Welcome to my repo!
 Skills:
 ### AWS / Data Analysis / Python 
 
-### I’m currently indulge in AWS and Data Analysis and Data Engineering domains.  
+### I’ve currently indulged in AWS and Data Analysis and Data Engineering domains.  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=V-VigneshR&show_icons=true)  
 
