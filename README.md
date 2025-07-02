@@ -1,14 +1,69 @@
-![](https://media.licdn.com/dms/image/D5616AQHVgm5rEpm1IQ/profile-displaybackgroundimage-shrink_350_1400/0/1709883660944?e=1715212800&v=beta&t=KggSVcNKbe6apiN-2Kc34Hyne9pxFILLwC-b7v4SAmA)
-## Vignesh
+<h1 align="center">Hey everyone!</h1>
 
-Hey I'm Vignesh. Welcome to my repo! 
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=500&color=2E97F7&center=true&vCenter=true&width=450&lines=I'm%20Vignesh;AWS%20Cloud%20Practitioner;Cloud-Focused;DevOps%20Enthusiast" alt="Typing SVG" />
+</h1>
 
-Skills:
-### AWS / Data Analysis / Python 
+---
 
-### I’ve currently indulged in AWS and Data Analysis and Data Engineering domains.  
+### About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=V-VigneshR&show_icons=true)  
+- Working on cloud-native projects and backend automation  
+- Learning AWS services and Docker for scalable app deployments  
+- Focused on building production-ready Flask apps with clean DevOps pipelines  
+- I prefer infra that works... and YAML that doesn't scream at me  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/V-VigneshR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/vignesh-ravichandran-2493062a3/](https://www.linkedin.com/in/vignesh-ravichandran-2493062a3/)
+---
 
+### Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vignesh-ravichandran-2493062a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vigneshvikash5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vigneshvikash5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### Tech Stack
+
+#### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" alt="Cloud Tools" />
+</p>
+
+#### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Languages" />
+</p>
+
+#### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,git,github,postman,mysql,sqlite" alt="Frameworks and Tools" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=V-VigneshR&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-VigneshR&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V-VigneshR&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=V-VigneshR&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
